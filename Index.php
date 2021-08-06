@@ -9,7 +9,7 @@
 </head>
 
 <body>
-	<a href="/download/launcher/Escabeche_Setup_1.1.0.zip">
+	<a href="https://drive.google.com/file/d/1-diXjnzQqkusD7Ttu_lX9NvBXAAvXEyM/view?usp=sharing">
 		<h1>Download Launcher</h1>
 	</a>
 </body>
